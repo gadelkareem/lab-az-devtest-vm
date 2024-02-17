@@ -16,3 +16,4 @@ crash.log
 # version control.
 #
 *.tfvars
+.terraform.lock.hcl
